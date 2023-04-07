@@ -8,7 +8,7 @@ The previous authors have annotated sentence-level functional roles of long-form
 
 ## Data
 
-There are three different data file which where provided in the github repository of the authors
+There are three different data file which where provided in the github repository from the previous authors
 
 ### Validity annotation
 
