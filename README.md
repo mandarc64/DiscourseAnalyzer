@@ -89,7 +89,9 @@ pip install _____
 ### Download the pre-trained model
 Download the model from this 
 [link](https://drive.google.com/file/d/1L_DbGhFqN-KBPJeTDFCAvX3RPZELJE9R/view?usp=sharing) and place it in the `models` directory. 
-Note: We need to create a folder name model under role_classifier directory and place the t5 folder in it (unzip and extract) `role_classifier/models/`
+Note: We need to create a folder name models under role_classifier directory and place the t5 folder in it (unzip and extract) 
+For example:
+`role_classifier/models/`
 
 ### Run predictions with pre-trained model 
 Sentence-level prediction will be saved to `<output_dir>/test_prediction.csv`
