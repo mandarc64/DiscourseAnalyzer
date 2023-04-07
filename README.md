@@ -2,7 +2,7 @@
 ## Introduction
 This is the repository for annotated data and model for this paper: </br>
 
-> Mandar Chaudhari, Ashlesha Deokar [How Do We Answer Complex Questions: Discourse Structure of Long-form Answers](https://arxiv.org/abs/2203.11048).
+> Mandar Chaudhari and Ashlesha Deokar [How Do We Answer Complex Questions: Discourse Structure of Long-form Answers](https://arxiv.org/abs/2203.11048).
 
 The previous authors have annotated sentence-level functional roles of long-form answers from three datasets ([NQ](https://ai.google.com/research/NaturalQuestions), [ELI5](https://facebookresearch.github.io/ELI5/explore.html) and the human demonstrations from [WebGPT](https://openai.com/blog/webgpt/)) as well as a subset of model-generated answers from [previous work](https://github.com/martiansideofthemoon/hurdles-longform-qa). We analyzed their discourse structure and trained a role classification [model](https://github.com/utcsnlp/lfqa_discourse#model) which can be used for automatic role analysis.
 
