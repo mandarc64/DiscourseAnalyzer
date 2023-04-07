@@ -1,4 +1,4 @@
-# CS678_FInalProject
+# CS678_FinalProject
 ## Introduction
 This is the repository for annotated data and model for this paper: </br>
 
