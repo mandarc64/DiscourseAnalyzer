@@ -1,0 +1,16 @@
+{
+    "epoch": 30.0,
+    "eval_Answer": 0.5167785234899329,
+    "eval_Answer(Summary)": 0.5972850678733032,
+    "eval_Answer-Example": 0.7222222222222223,
+    "eval_Answer-Organizationalsentence": 0.6666666666666666,
+    "eval_AuxiliaryInformation": 0.4067796610169492,
+    "eval_Miscellaneous": 0.759493670886076,
+    "eval_accuracy": 0.572463768115942,
+    "eval_loss": 0.39141198992729187,
+    "eval_macro_f1": 0.6115376353591917,
+    "eval_runtime": 11.4211,
+    "eval_samples": 62,
+    "eval_samples_per_second": 5.429,
+    "eval_steps_per_second": 0.35
+}
