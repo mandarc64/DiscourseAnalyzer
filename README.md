@@ -92,6 +92,7 @@ Download the model from this
 Note: We need to create a folder name models under role_classifier directory and place the t5 folder in it (unzip and extract) 
 For example:
 `role_classifier/models/`
+But in this repository, I have already downloaded the model and placed it in the required directory 
 
 ### Run predictions with pre-trained model 
 Sentence-level prediction will be saved to `<output_dir>/test_prediction.csv`
