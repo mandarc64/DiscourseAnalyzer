@@ -103,3 +103,4 @@ Sentence-level prediction will be saved to `<output_dir>/test_prediction.csv`
 # t5 
 python run_t5_role_classifier.py --train_file data/t5/train.csv --validation_file data/t5/validation.csv --test_file data/t5/test.csv --output_dir outputs/t5/test/ --do_predict --overwrite_output_dir --evaluation_strategy epoch --predict_with_generate --num_train_epoch 0 --model_name_or_path models/t5
 ```
+I have provided the results which I got while executing the code in the directory `role_classifier/outputs/t5/test`
