@@ -1,0 +1,15 @@
+{
+    "predict_Answer": 0.48745519713261654,
+    "predict_Answer(Summary)": 0.5350877192982456,
+    "predict_Answer-Example": 0.6206896551724138,
+    "predict_Answer-Organizationalsentence": 0.6,
+    "predict_AuxiliaryInformation": 0.49557522123893816,
+    "predict_Miscellaneous": 0.8421052631578947,
+    "predict_accuracy": 0.5547445255474452,
+    "predict_loss": 0.3539367914199829,
+    "predict_macro_f1": 0.5968188426666848,
+    "predict_runtime": 914.5141,
+    "predict_samples": 62,
+    "predict_samples_per_second": 0.068,
+    "predict_steps_per_second": 0.009
+}
