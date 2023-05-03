@@ -94,7 +94,6 @@ Download the model from this
 Note: We need to create a folder name models under role_classifier directory and place the t5 folder in it (unzip and extract) 
 For example:
 `role_classifier/models/`
-But in this repository, I have already downloaded the model and placed it in the required directory 
 
 ### Run predictions with pre-trained model 
 Sentence-level prediction will be saved to `<output_dir>/test_prediction.csv`
@@ -103,4 +102,5 @@ Sentence-level prediction will be saved to `<output_dir>/test_prediction.csv`
 # t5 
 python run_t5_role_classifier.py --train_file data/t5/train.csv --validation_file data/t5/validation.csv --test_file data/t5/test.csv --output_dir outputs/t5/test/ --do_predict --overwrite_output_dir --evaluation_strategy epoch --predict_with_generate --num_train_epoch 0 --model_name_or_path models/t5
 ```
+You can check out the the demonstration of how a long-form answer is structured based on different categories [here}(https://huggingface.co/spaces/mandarc64/CS678FinalProject)
 I have provided the results which I got while executing the code in the directory `role_classifier/outputs/t5/test`
