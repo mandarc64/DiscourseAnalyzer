@@ -39,9 +39,9 @@ Why do we forget what happened in our dreams the following morning?,"You feel yo
 Why do we forget what happened in our dreams the following morning?,"Because it is hard work to save all those informations some stuff gets ignored, just like your nose. ",5,Answer (Summary)
 Why do we forget what happened in our dreams the following morning?,Now think of your dreams as the nose. ,6,Answer - Example
 Why do we forget what happened in our dreams the following morning?,Dreams are not important to your brain after they happened so the memory gets deleted quickly. ,7,Answer (Summary)
-Why do we forget what happened in our dreams the following morning?,You can usually remember it for a few minutes after waking up but it goes away quickly. ,8,Answer - Example
+Why do we forget what happened in our dreams the following morning?,You can usually remember it for a few minutes after waking up but it goes away quickly. ,8,Auxiliary Information
 Why do we forget what happened in our dreams the following morning?,"Now, just like you can think about your nose and then see it, you can start thinking about your dreams and keep them memorized! ",9,Answer - Example
-Why do we forget what happened in our dreams the following morning?,"If you concentrate on them, you tell your brain that they are important and it will save them. ",10,Answer (Summary)
+Why do we forget what happened in our dreams the following morning?,"If you concentrate on them, you tell your brain that they are important and it will save them. ",10,Answer
 Why do we forget what happened in our dreams the following morning?,This can be trained btw.,11,Auxiliary Information
 Why do people put cologne/perfume on the insides of their wrists?,I've heard 2 explanations - can't vouch for either. ,1,Miscellaneous
 Why do people put cologne/perfume on the insides of their wrists?,1. ,2,Answer
@@ -91,7 +91,7 @@ Why are the ceilings in so many grocery stores so high?,"Construction costs woul
 Why are the ceilings in so many grocery stores so high?,Such costs can be somewhat offset by reducing the number of columns required. ,8,Answer
 Why are the ceilings in so many grocery stores so high?,"When designers are tasked to create 'open space', regardless of low or high ceilings, larger columns with stronger roof systems allow column spacing to be increased, thus 'opening' the space. ",9,Answer
 Why are the ceilings in so many grocery stores so high?,"However, this is not always the case, such as in multi-story structures where significant weight/loads on higher floors require different column sizes or spacing (e.g., airports, parking ramps, hotels). ",10,Auxiliary Information
-Why are the ceilings in so many grocery stores so high?,"Operating costs do tend to be higher, but it is a trade off on the desired space/affect and what is considered reasonable operating expense. ",11,Answer
+Why are the ceilings in so many grocery stores so high?,"Operating costs do tend to be higher, but it is a trade off on the desired space/affect and what is considered reasonable operating expense. ",11,Answer (Summary)
 Why are the ceilings in so many grocery stores so high?,"Such factors are taken into consideration during the design phase of projects, so the owner/operator knows early-on what to expect. ",12,Answer
 Why are the ceilings in so many grocery stores so high?,These factors also contribute to changes in a design if costs are deemed to be unreasonable or exceeding targets/goals. ,13,Answer
 Why are the ceilings in so many grocery stores so high?,"Source: Engineer by day, Firefighter by night. ",14,Miscellaneous
@@ -147,7 +147,7 @@ Why has clock speed on CPU's become almost irrelevant?,You can speed up work by 
 Why has clock speed on CPU's become almost irrelevant?,You can also increase the production by improving the order that the work is completed so you no longer have certain workers waiting for work. ,3,Answer
 Why has clock speed on CPU's become almost irrelevant?,You can also operate another set of workers on the same assembly line to get close to twice as much work done during the same time.,4,Answer - Example
 How do cellphones communicate over such long distances with such a small antenna while my router barely can cover my house?,Two reasons: ,1,Answer - Organizational sentence
-How do cellphones communicate over such long distances with such a small antenna while my router barely can cover my house?,"* WiFi typically operates at 100 mW, cell phones are allowed to transmit up to 2000 mW. ",2,Answer
+How do cellphones communicate over such long distances with such a small antenna while my router barely can cover my house?,"* WiFi typically operates at 100 mW, cell phones are allowed to transmit up to 2000 mW. ",2,Answer (Summary)
 How do cellphones communicate over such long distances with such a small antenna while my router barely can cover my house?,"* WiFi operates at a higher frequency, which is blocked more easily by walls, etc. ",3,Answer (Summary)
 How do cellphones communicate over such long distances with such a small antenna while my router barely can cover my house?,These are intentional. ,4,Answer
 How do cellphones communicate over such long distances with such a small antenna while my router barely can cover my house?,"Wifi links have been established by hobbyists using souped- up routers over long distances (miles), but that defeats the purpose of home use, because if all routers reached that far, they'd all interfere with each other, making the connection slow.",5,Answer (Summary)
@@ -234,8 +234,8 @@ Why do nations fund terrorism?,"But you can't prove I did it, and neither can he
 Why do nations fund terrorism?,"And then you've got the whole ""One mans terrorist is another mans freedom fighter"". ",3,Answer (Summary)
 Why do nations fund terrorism?,"Europe and the US would never ever support terrorists, though, but they will support the Syrian Rebels, the Ukraine Rebels (maybe) and so on... ",4,Answer (Summary)
 Why do nations fund terrorism?,"Whether you think it's right or wrong, it all comes down to supporting people who are fighting your enemies.",5,Answer
-Does marijuana impair driving ability?,"Cannabis is a depressant drug, which means it slows down messages travelling between your brain and body. ",1,Answer
-Does marijuana impair driving ability?,"When large doses of cannabis are taken, it may also produce hallucinogenic effects. ",2,Answer (Summary)
+Does marijuana impair driving ability?,"Cannabis is a depressant drug, which means it slows down messages travelling between your brain and body. ",1,Answer (Summary)
+Does marijuana impair driving ability?,"When large doses of cannabis are taken, it may also produce hallucinogenic effects. ",2,Answer
 Does marijuana impair driving ability?,"Cannabis can cause: reduced coordination, slower reaction times, slower information processing, confusion, changes in vision, hearing, and time and space perception. ",3,Answer (Summary)
 Does marijuana impair driving ability?,A person who has been using cannabis may think that they will be able to drive safely. ,4,Answer - Example
 Does marijuana impair driving ability?,"However, the cannabis may have affected their view and experience of reality, and their judgement. ",5,Answer - Example
@@ -282,7 +282,7 @@ Why is the French Revolution considered more important than the American one in 
 Why is the French Revolution considered more important than the American one in world history when it came later and had many of the same themes?,"The French one was about getting rid of monarchies, which changed power structures all over Europe, which, even Eurocentricism aside was a huge factor of influence on how the world is today. ",2,Answer (Summary)
 Why is the French Revolution considered more important than the American one in world history when it came later and had many of the same themes?,"You can still see monarchies in place in countries where the revolution did not happen, so it also doesn't count as a ""would have happened anyway"" thing.",3,Answer
 Why do websites make you have a complicated password when most account breaches come from a hack and not just guessing?,"When people hack sites for passwords, they usually get a list of the hashed passwords. ",1,Answer (Summary)
-Why do websites make you have a complicated password when most account breaches come from a hack and not just guessing?,"That means when you put in your password, the site can check if it's the same password you signed up with but it doesn't know what the password is. ",2,Answer (Summary)
+Why do websites make you have a complicated password when most account breaches come from a hack and not just guessing?,"That means when you put in your password, the site can check if it's the same password you signed up with but it doesn't know what the password is. ",2,Answer
 Why do websites make you have a complicated password when most account breaches come from a hack and not just guessing?,It's like a one-way secret message. ,3,Answer
 Why do websites make you have a complicated password when most account breaches come from a hack and not just guessing?,The way hackers figure out passwords is they know common hashing techniques and they guess common passwords using those techniques. ,4,Answer
 Why do websites make you have a complicated password when most account breaches come from a hack and not just guessing?,"Since ""password123"" is a common password, they'll put that in the hash, see what comes out, and match that output to the stolen list of hashed passwords they got. ",5,Answer - Example
@@ -301,7 +301,7 @@ Can the capacity of our brains be roughly measured in bytes?,"We store memories 
 Can the capacity of our brains be roughly measured in bytes?,A more accurate measure of brain capacity is the number of connections in the brain.,6,Answer
 "If an addict goes into a coma for enough time to get it out of their system, would they still be addicted when they wake up?",They would have no physical addiction. ,1,Answer (Summary)
 "If an addict goes into a coma for enough time to get it out of their system, would they still be addicted when they wake up?",They would go through withdrawal while unconscious. ,2,Answer
-"If an addict goes into a coma for enough time to get it out of their system, would they still be addicted when they wake up?","But they'd still be addicted psychologically, much like a person who quits for awhile--they will still crave the substance, but not become physically ill when not having any. ",3,Answer
+"If an addict goes into a coma for enough time to get it out of their system, would they still be addicted when they wake up?","But they'd still be addicted psychologically, much like a person who quits for awhile--they will still crave the substance, but not become physically ill when not having any. ",3,Answer (Summary)
 "If an addict goes into a coma for enough time to get it out of their system, would they still be addicted when they wake up?",It's actually a thing to put people to sleep so they can detox while unconscious.,4,Auxiliary Information
 "Why do so many European countries show hatred towards the European Union (like the UK), even though it has lead to the most peaceful and stable period in European history?",One thing people haven't mentioned is immigration. ,1,Answer (Summary)
 "Why do so many European countries show hatred towards the European Union (like the UK), even though it has lead to the most peaceful and stable period in European history?","Despite claims otherwise, immigration was one of the main reasons for the UK voting to leave the EU. ",2,Auxiliary Information
@@ -327,10 +327,10 @@ Why are people against mandatory background checks before buying a gun?,The oppo
 Why are people against mandatory background checks before buying a gun?,Gun owners are exceedingly concerned that a similar registration of the guns they own gives the state a tool that's much too useful should it ever wish to seize the guns (since it would know where every single gun in the nation is). ,6,Answer
 Why are people against mandatory background checks before buying a gun?,"This is why there's opposition, the current background checks cover almost all gun sales, and there's too little trust that the means of enforcing private background checks would eventually be the means to facilitate a seizure of private guns.",7,Answer
 Why is pedophilia considered a mental disorder?,Having a mental disorder does not mean that your brain is different. ,1,Answer
-Why is pedophilia considered a mental disorder?,Wikipedia: ,2,Miscellaneous
+Why is pedophilia considered a mental disorder?,Wikipedia: ,2,Auxiliary Information
 Why is pedophilia considered a mental disorder?,"""A mental disorder, also called a mental illness[2] or psychiatric disorder, is a behavioral or mental pattern that may cause suffering or a poor ability to function in life. ",3,Auxiliary Information
-Why is pedophilia considered a mental disorder?,"Such features may be persistent, relapsing and remitting, or occur as a single episode. ",2,Miscellaneous
-Why is pedophilia considered a mental disorder?,"Many disorders have been described, with signs and symptoms that vary widely between specific disorders"" ",4,Auxiliary Information
+Why is pedophilia considered a mental disorder?,"Such features may be persistent, relapsing and remitting, or occur as a single episode. ",2,Auxiliary Information
+Why is pedophilia considered a mental disorder?,"Many disorders have been described, with signs and symptoms that vary widely between specific disorders"" ",4,Answer
 Why is pedophilia considered a mental disorder?,I imagine pedofilia is considered as such because fulfilling such desires is violent and extremely harmful to a childs psyche. ,5,Auxiliary Information
 Why is pedophilia considered a mental disorder?,"Pedofilia is after all always non consensual, since the target is by definition a person too immature to be able to give consent.",6,Answer
 "Why is everyone that pleads ""not guilty"" in a court case, but later found guilty, not also given a perjury charge (along with their initial charges)?",> ,1,Miscellaneous
@@ -409,8 +409,8 @@ File names. Why can't Microsoft Office save or open files that have slashes or c
 File names. Why can't Microsoft Office save or open files that have slashes or colons in their names?,"As a holdover from the days of the beginnings of Windows, many filename characters are not permitted such as  <  > ?!: etc., that is because the file system is not equipped to handle those types. ",5,Answer
 File names. Why can't Microsoft Office save or open files that have slashes or colons in their names?,"Using Microsoft Office on a Mac, you could save all kinds of filenames, save for those with a colon. ",6,Answer - Example
 File names. Why can't Microsoft Office save or open files that have slashes or colons in their names?,This is because Classic Mac OS uses colons to separate files. ,7,Answer
-File names. Why can't Microsoft Office save or open files that have slashes or colons in their names?,"The newer Mac OS uses colons at the basic system level, so it is reserved. ",8,Auxiliary Information
-File names. Why can't Microsoft Office save or open files that have slashes or colons in their names?,All other types are permitted.,9,Auxiliary Information
+File names. Why can't Microsoft Office save or open files that have slashes or colons in their names?,"The newer Mac OS uses colons at the basic system level, so it is reserved. ",8,Answer
+File names. Why can't Microsoft Office save or open files that have slashes or colons in their names?,All other types are permitted.,9,Answer
 "When you're swimming, why doesn't the water flood your ears and kill you?","Lucky for you, your ear has a protective barrier called your tympanic membrane (eardrum). ",1,Answer (Summary)
 "When you're swimming, why doesn't the water flood your ears and kill you?",This keeps the middle and inner ear separated from the outside environment. ,2,Answer
 "When you're swimming, why doesn't the water flood your ears and kill you?","Even if your eardrum gets torn, your body has a connection from the ear to the throat known as your Eustachian tube so if you were to go swimming with a perforated eardrum (a bad idea since the risk for infection skyrockets), you'd still be alright.",3,Answer (Summary)
