@@ -66,7 +66,7 @@ The previous author has provided role classification model as well as the train/
 * `a_id`: The answer id, same as those in `role_annotation.jsonl`.
 * `target_all_labels`: A string containing all annotated roles, separated by comma for each sentence in the paragraph, used to calculate `Match-any` metric.
 
-Below is the process to reproduce their results.
+Below is the process to generate the output.
 
 ### Install the requirements
 ```bash
@@ -104,13 +104,13 @@ python run_t5_role_classifier.py --train_file data/t5/train.csv --validation_fil
 After exeucting the above command the output will get stored in the directory `role_classifier/outputs/t5/test`
 
 ## Hyperparameter Tuning
-We can change the hyper-paremeters in the config.json file of the model and the file is located in `role_classifier/models/t5/config.json`
-We tried changing the number of epochs, activation function, learning rate, and dropout rate
+We can change the hyper-paremeters in the config.json file of the model and the file is located in `role_classifier/models/t5/config.json`.
+We tried changing the number of epochs, activation function, learning rate, and dropout rate.
 The model's accuracy improved with increasing epochs, reaching 58.45% accuracy with 30 epochs, accompanied by lower loss and higher F1 score. The gelu activation function outperformed relu, with accuracy improvements of 5% and 1.74% for 20 and 30 epochs respectively. Changing learning rate and dropout rate resulted in decreased accuracy. 
 
 ## Multilingual
-The model supports three languages english, french and german. We got an accuracy of around 66% when we passed the dataset having French & German Languages. The rest of the languages apart from English, French, and German the model assigned functional role 'answer' for the entire answer.
+The model supports three languages English, French and German. We got an accuracy of around 66% when we passed the dataset having French & German Languages. Apart from these three languages, the rest of the languages were assigned functional role 'answer' for the entire answer by the model.
 
 ## Demo
-Check out the the demonstration of how a long-form answer is structured based on different categories [here](https://huggingface.co/spaces/mandarc64/CS678FinalProject)
+Check out the the demonstration of how a long-form answer is structured based on different categories [here](https://huggingface.co/spaces/mandarc64/CS678FinalProject) The model can be tested with real worl question-answer pairs in the demonstration. 
 We have provided the results which we got while executing the code in the directory `role_classifier/outputs/t5/test`
