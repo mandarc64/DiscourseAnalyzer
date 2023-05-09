@@ -104,12 +104,12 @@ python run_t5_role_classifier.py --train_file data/t5/train.csv --validation_fil
 ```
 After exeucting the above command the output will get stored in the directory `role_classifier/outputs/t5/test`
 
-##Hyperparameter Tuning
+## Hyperparameter Tuning
 We can change the hyper-paremeters in the config.json file of the model and the file is located in `role_classifier/models/t5/config.json`
 We tried changing the number of epochs, activation function, learning rate, and dropout rate
 The model's accuracy improved with increasing epochs, reaching 58.45% accuracy with 30 epochs, accompanied by lower loss and higher F1 score. The gelu activation function outperformed relu, with accuracy improvements of 5% and 1.74% for 20 and 30 epochs respectively. Changing learning rate and dropout rate resulted in decreased accuracy. 
 
-##Multilingual
+## Multilingual
 The model supports three languages english, french and german. We got an accuracy of around 66% when we passed the dataset having French & German Languages. The rest of the languages apart from English, French, and German the model assigned functional role 'answer' for the entire answer.
 
 Check out the the demonstration of how a long-form answer is structured based on different categories [here](https://huggingface.co/spaces/mandarc64/CS678FinalProject)
