@@ -1,4 +1,4 @@
-# CS678_FinalProject
+# DiscourseAnalyzer: Multilingual Role Classification
 ## Introduction
 
 > Mandar Chaudhari and Ashlesha Deokar [How Do We Answer Complex Questions: Discourse Structure of Long-form Answers](https://arxiv.org/abs/2203.11048).
